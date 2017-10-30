@@ -18,7 +18,7 @@ Protist is here defined as unicellular eukaryotes
 par = parasitism<br /> 
 com = commensialism
 
-**Accession number**
+**Accession number**<br />
 If sequencing was applied in the study, and published in Genbank, accession number is included in the database
 
 **Taxonomic levels**<br /> 
@@ -31,11 +31,11 @@ Taxonomic names (any level) follows the nomenclature of the Silva database (rele
 <br /> <br /> 
 References for the Silva database
 - Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glöckner FO (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucl. Acids Res. 41 (D1): D590-D596.
-- Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glöckner FO (2014) The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks. Nucl. Acids Res. 42:D643-D648
-- 
+- Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glöckner FO (2014) The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks. Nucl. Acids Res. 42:D643-D648.
 
-**Habitat**
+
+**Habitat**<br />
 Marine, brackish or freshwater
 
-**Source**
+**Source**<br />
 Information on the sampling: location, sampling method, culture, smaller scale habitat (e.g. sediment, surface water, etc.)
