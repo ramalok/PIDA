@@ -1,18 +1,25 @@
-The MicroEcoSystems Interaction database version 1.0 was assembled January through May 2017.
+The MicroEcoSystems Interaction database version 1.07 was assembled January through Oktober 2017.
 Papers used to document interactions are published between 1894 and 2017.
+
+2,432 entries from 530 publications are listed in the database.
+
+Only interactions from aquatic systems are included (e.g. marine, brackish and freshwater)
 
 **Observation type**<br /> 
 1 = symbiont and/or host determined by microscopy (e.g. light microscopy , SEM )<br /> 
 2 = symbiont and/or host determined by molecular methods (e.g sequencing or FISH)<br /> 
 3 = 1 and 2
 
-**Taxonomic interaction**<br /> Prot = Protist<br /> Bac = Bacteria<br /> Arc = Archaea<br /> Met = Metazoan<br /> Rho = Rhodophyte
+**Taxonomic interaction**<br /> Prot = Protist<br /> Bac = Bacteria<br /> Arc = Archaea<br />
 
 Protist is here defined as unicellular eukaryotes
 
 **Ecological interaction**<br /> symb = symbiosis<br /> 
 par = parasitism<br /> 
 com = commensialism
+
+**Accession number**
+If sequencing was applied in the study, and published in Genbank, accession number is included in the database
 
 **Taxonomic levels**<br /> 
 Org 1 = host<br /> 
@@ -25,3 +32,10 @@ Taxonomic names (any level) follows the nomenclature of the Silva database (rele
 References for the Silva database
 - Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glöckner FO (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucl. Acids Res. 41 (D1): D590-D596.
 - Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glöckner FO (2014) The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks. Nucl. Acids Res. 42:D643-D648
+- 
+
+**Habitat**
+Marine, brackish or freshwater
+
+**Source**
+Information on the sampling: location, sampling method, culture, smaller scale habitat (e.g. sediment, surface water, etc.)
