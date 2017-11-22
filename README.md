@@ -1,7 +1,7 @@
-The MicroEcoSystems Interaction database version 1.07 was assembled January through Oktober 2017.
+The MicroEcoSystems Interaction database version 1.08 was assembled January through November 2017.
 Papers used to document interactions are published between 1894 and 2017.
 
-2,432 entries from 530 publications are listed in the database.
+2,424 entries from 528 publications are listed in the database.
 
 Only interactions from aquatic systems are included (e.g. marine, brackish and freshwater)
 
