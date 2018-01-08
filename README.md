@@ -1,4 +1,4 @@
-*Assembling the database*<br />
+***Assembling the database***<br />
 The MicroEcoSystems Interaction database was assembled January through November 2017.
 Papers used to document interactions are published between 1894 and 2017.
 Initially, reviews resulting from the boolean search string (plankton* AND (marin* OR ocean*)) 
@@ -28,14 +28,17 @@ A published paper is associated to each interaction entry. When a DOI is availab
 Only interactions from aquatic systems are included (marine, brackish and freshwater)
 The resulting database contains 2,424 entries from 528 publications.
 
-*Columns:*<br /> 
+***Columns:***<br /> 
 
 **Observation type**<br /> 
 1 = symbiont and/or host determined by microscopy (e.g. light microscopy , SEM )<br /> 
 2 = symbiont and/or host determined by molecular methods (e.g sequencing or FISH)<br /> 
 3 = both 1 and 2
 
-**Taxonomic interaction**<br /> Prot = Protist<br /> Bac = Bacteria<br /> Arc = Archaea<br />
+**Taxonomic interaction**<br /> 
+Prot = Protist<br /> 
+Bac = Bacteria<br /> 
+Arc = Archaea<br />
 
 Protist is here defined as unicellular eukaryotes
 
@@ -54,7 +57,7 @@ Org 2 = symbiont<br />
 Tax 1 = Eukaryote or prokaryote<br /> 
 Tax 2 = Supergroup or other high taxonomic level (e.g. Rhizaria, Alveolata, Metazoa)<br /> 
 Tax 3 = Larger groups below supergroup taxonomic level (e.g. Ciliophora, Dinoflagellata, Acantharia)<br /> <br /> 
-Taxonomic names (any level) follows the nomenclature of the Silva database (release 128, May/June 2017)  https://www.arb-silva.de/. Taxonomic names used in articles may therefore not be identical to database entries as several species have synonyms.
+Taxonomic names (any level) follows the nomenclature of the Silva database. Taxonomic names used in articles may therefore not be identical to database entries as several species have synonyms.
 <br /> <br /> 
 
 **Habitat**<br />
