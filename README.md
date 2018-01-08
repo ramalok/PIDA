@@ -1,7 +1,7 @@
-#MicroEcoSystems Database#
+# MicroEcoSystems Database
 
 
-##Assembling the database##<br />
+## Assembling the database<br />
 The MicroEcoSystems Interaction database was assembled January through November 2017.
 Papers used to document interactions are published between 1894 and 2017.
 Initially, reviews resulting from the boolean search string (plankton* AND (marin* OR ocean*)) 
