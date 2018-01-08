@@ -69,6 +69,12 @@ Marine, brackish or freshwater
 ### Source<br />
 Information on the sampling: location, sampling method, culture, smaller scale habitat (e.g. sediment, surface water, etc.)
 
+### Example
+
+| observation type | taxonomic interaction |
+| -------- | -------- |
+| 3   | mutualism   |
+
 ## References
 - Adl, Sina M., Alastair G B Simpson, Christopher E. Lane, Julius Lukeš, David Bass, Samuel S. Bowser, Matthew W. Brown, et al. 2012. “The Revised Classification of Eukaryotes.” Journal of Eukaryotic Microbiology 59 (5): 429–93. doi:10.1111/j.1550-7408.2012.00644.x.
 - Benson, Dennis A., Ilene Karsch-Mizrachi, David J. Lipman, James Ostell, and David L. Wheeler. 2005. “GenBank.” Nucleic Acids Research 33 (DATABASE ISS.): 34–38. doi:10.1093/nar/gki063.
