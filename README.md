@@ -2,7 +2,7 @@
 The MicroEcoSystems Interaction database was assembled January through November 2017.
 Papers used to document interactions are published between 1894 and 2017.
 Initially, reviews resulting from the boolean search string (plankton* AND (marin* OR ocean*)) 
-AND (parasit* OR symbios* OR mutualis*) in Scopus and Web of Science were examined and the references therein further explored.
+AND (parasit* OR symbios* OR mutualis*) in Scopus (https://www.scopus.com/) and Web of Science (http://webofknowledge.com/) were examined and the references therein further explored.
 This literature search strategy, followed by meticulously reading papers and included references, 
 was the main method for collecting papers documenting interactions. The database of screened literature from the Tara Oceans project (Lima-Mendez et al. 2015) was used as template to organize our database. 
 Entries from the Tara database were double-checked and added to our database. 
