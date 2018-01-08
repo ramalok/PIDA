@@ -43,10 +43,10 @@ Arc = Archaea<br />
 Protist is here defined as unicellular eukaryotes
 
 **Ecological interaction**<br /> 
-Type of interaction:
+Type of interaction as described in the original paper:
 - Parasitism
 - Predation
-- Different forms of benevolent symbiosis
+- Different forms of benevolent symbiosis (e.g. photosymbiosis, nitrogen-fixation and vitamin exchange)
 
 **Accession number**<br />
 If sequencing was applied in the study (on one or both organisms), and published in Genbank, accession number is included in the database
