@@ -56,10 +56,6 @@ Tax 2 = Supergroup or other high taxonomic level (e.g. Rhizaria, Alveolata, Meta
 Tax 3 = Larger groups below supergroup taxonomic level (e.g. Ciliophora, Dinoflagellata, Acantharia)<br /> <br /> 
 Taxonomic names (any level) follows the nomenclature of the Silva database (release 128, May/June 2017)  https://www.arb-silva.de/. Taxonomic names used in articles may therefore not be identical to database entries as several species have synonyms.
 <br /> <br /> 
-References for the Silva database
-- Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glöckner FO (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucl. Acids Res. 41 (D1): D590-D596.
-- Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glöckner FO (2014) The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks. Nucl. Acids Res. 42:D643-D648.
-
 
 **Habitat**<br />
 Marine, brackish or freshwater
@@ -67,7 +63,7 @@ Marine, brackish or freshwater
 **Source**<br />
 Information on the sampling: location, sampling method, culture, smaller scale habitat (e.g. sediment, surface water, etc.)
 
-*References*
+***References***
 - Adl, Sina M., Alastair G B Simpson, Christopher E. Lane, Julius Lukeš, David Bass, Samuel S. Bowser, Matthew W. Brown, et al. 2012. “The Revised Classification of Eukaryotes.” Journal of Eukaryotic Microbiology 59 (5): 429–93. doi:10.1111/j.1550-7408.2012.00644.x.
 - Benson, Dennis A., Ilene Karsch-Mizrachi, David J. Lipman, James Ostell, and David L. Wheeler. 2005. “GenBank.” Nucleic Acids Research 33 (DATABASE ISS.): 34–38. doi:10.1093/nar/gki063.
 - Lima-Mendez, Gipsi, Karoline Faust, Nicolas Henry, Johan Decelle, Sébastien Colin, Fabrizio Carcillo, Samuel Chaffron, et al. 2015. “Determinants of Community Structure in the Global Plankton Interactome.” Science 348 (6237): 1262073. doi:10.1126/science.1262073.
