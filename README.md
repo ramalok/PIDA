@@ -3,7 +3,11 @@ Papers used to document interactions are published between 1894 and 2017.
 
 2,424 entries from 528 publications are listed in the database.
 
+Initially, reviews resulting from the boolean search string (plankton* AND (marin* OR ocean*)) AND (parasit* OR symbios* OR mutualis*) in Scopus and Web of Science were examined and the references therein further explored. This literature search strategy, followed by meticulously reading papers and included references, was the main method for collecting papers documenting interactions.
+
 Only interactions from aquatic systems are included (e.g. marine, brackish and freshwater)
+
+
 
 **Observation type**<br /> 
 1 = symbiont and/or host determined by microscopy (e.g. light microscopy , SEM )<br /> 
