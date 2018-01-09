@@ -22,13 +22,13 @@ The second level places each taxon within super groups or other high taxonomic l
 following the scheme of (Adl et al. 2012). The third level places each taxon in larger groups below the supergroup taxonomic levels 
 (e.g. Ciliophora, Dinoflagellata and Acantharia). Each level of taxonomic names follows the nomenclature of the 
 Silva database (release 128, May/June 2017) (Pruesse et al. 2007; Yilmaz et al. 2014; Quast et al. 2013). 
-Species namesnames have been updated to the most recent agreed upon classification in the database can therefore deviate 
+Species names have been updated to the most recent agreed upon classification in the database can therefore deviate 
 from the original papers they stem from  are therefore not the same as the entries in the database due to several cases of synonymization.
 The database also documents the methods used to determine the interacting species. Symbionts and/or hosts determined by any form of 
 microscopy or direct observation are denoted 1. Symbionts and/or hosts determined by sequencing or FISH are denoted 2. 
 The combination of the former two is denoted 3. Most interactions with observation type 2 also have accession numbers from GenBank (Benson et al. 2005) that are included in the database. 
 A published paper is associated to each interaction entry. When a DOI is available, it is included in the database.
-Only interactions from aquatic systems are included (marine, brackish and freshwater)
+Only interactions from aquatic systems are included (marine, brackish and freshwater).
 The resulting database contains 2,424 entries from 528 publications.
 
 ## Columns<br /> 
