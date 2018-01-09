@@ -34,7 +34,7 @@ The resulting database contains 2,424 entries from 528 publications.
 ## Columns<br /> 
 
 ### Observation type<br /> 
-1 = symbiont and/or host determined by microscopy (e.g. light microscopy , SEM )<br /> 
+1 = symbiont and/or host determined by direct observation (e.g. light microscopy , SEM )<br /> 
 2 = symbiont and/or host determined by molecular methods (e.g sequencing or FISH)<br /> 
 3 = both 1 and 2
 
@@ -69,11 +69,7 @@ Marine, brackish or freshwater
 ### Source<br />
 Information on the sampling: location, sampling method, culture, smaller scale habitat (e.g. sediment, surface water, etc.)
 
-### Example
 
-| observation type | taxonomic interaction |
-| -------- | -------- |
-| 3   | mutualism   |
 
 ## References
 - Adl, Sina M., Alastair G B Simpson, Christopher E. Lane, Julius Lukeš, David Bass, Samuel S. Bowser, Matthew W. Brown, et al. 2012. “The Revised Classification of Eukaryotes.” Journal of Eukaryotic Microbiology 59 (5): 429–93. doi:10.1111/j.1550-7408.2012.00644.x.
