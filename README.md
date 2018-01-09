@@ -31,30 +31,30 @@ A published paper is associated to each interaction entry. When a DOI is availab
 Only interactions from aquatic systems are included (marine, brackish and freshwater).
 The resulting database contains 2,424 entries from 528 publications.
 
-## Columns<br /> 
+## Columns (a-u)<br /> 
 
-### Observation type<br /> 
+###a) Observation type<br /> 
 1 = symbiont and/or host determined by direct observation (e.g. light microscopy , SEM )<br /> 
 2 = symbiont and/or host determined by molecular methods (e.g sequencing or FISH)<br /> 
 3 = both 1 and 2
 
-### Taxonomic interaction<br /> 
+###b) Taxonomic interaction<br /> 
 Prot = Protist<br /> 
 Bac = Bacteria<br /> 
 Arc = Archaea<br />
 
 Protist is here defined as unicellular eukaryotes
 
-### Ecological interaction<br /> 
+###c) Ecological interaction<br /> 
 Type of interaction as described in the original paper:
 - Parasitism
 - Predation
 - Different forms of benevolent symbiosis (e.g. photosymbiosis, nitrogen-fixation and vitamin exchange)
 
-### Accession number<br />
+###d & j) Accession number<br />
 If sequencing was applied in the study (on one or both organisms), and published in Genbank, accession number is included in the database
 
-### Taxonomic levels<br /> 
+###e-i & k-o) Taxonomic levels<br /> 
 Org 1 = host<br /> 
 Org 2 = symbiont<br /> 
 Tax 1 = Eukaryote or prokaryote<br /> 
@@ -63,7 +63,19 @@ Tax 3 = Larger groups below supergroup taxonomic level (e.g. Ciliophora, Dinofla
 Taxonomic names (any level) follows the nomenclature of the Silva database. Taxonomic names used in articles may therefore not be identical to database entries as several species have synonyms.
 <br /> <br /> 
 
-### Habitat<br />
+### p) Reference<br />
+Author and year of publication
+
+### q) Link
+DOI or link to paper 
+
+### r) Database
+
+
+### s) Interaction ID
+Identifier for each entry
+
+### t) Habitat<br />
 Marine, brackish or freshwater
 
 ### Source<br />
