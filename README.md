@@ -15,7 +15,7 @@ The database documents the ecological interaction between two organisms, identif
 The types of interactions are parasitism and predation, as well as benevolent symbiosis. 
 Parasitism is used in cases where the paper at hand clearly underscores a parasitic interaction. 
 Cases of kleptoplasty together with classical predation are contained within the group of entries termed predation. 
-Symbiosis includes endo- and ectosymbiosis as well as epibionts and is categorized into the different forms of symbiosis (e.g. photosymbiosis). 
+Symbiosis includes endo- and ectosymbiosis as well as epibionts and is categorized into the different forms of symbiosis (e.g. photosymbiosis).<br /> 
 In addition to genus and species level, the taxonomic classification consists of three levels chosen pragmatically 
 to make the database more user friendly and portable. The highest level distinguishes between eukaryote and prokaryote taxa. 
 The second level places each taxon within super groups or other high taxonomic levels (e.g. Rhizaria or Alveolata) 
