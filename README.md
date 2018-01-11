@@ -68,13 +68,14 @@ Taxonomic names (any level) follows the nomenclature of the Silva database. Taxo
 Author and year of publication
 
 ### Link
-DOI or link to paper 
+DOI or other link to each reference 
 
 ### Database
+Either MicroEcoSystems or TARA
 
 
 ### Interaction ID
-Identifier for each entry
+ Unique identifier for each entry
 
 ### Habitat<br />
 Marine, brackish or freshwater
