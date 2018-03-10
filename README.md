@@ -1,4 +1,4 @@
-# MicroEcoSystems Database
+# PIDA Protist Interaction Database
 
 
 ## Assembling the database<br />
