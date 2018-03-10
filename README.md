@@ -89,6 +89,7 @@ Information on the sampling: location, sampling method, culture, smaller scale h
 
  Evenstad, A., Lieblein Røsæg, L., Markussen Bjorbækmo, M.F., Krabberød, A.K., Logares, R. PIDA: Protist Interaction Database
 
+[![DOI](https://zenodo.org/badge/124667376.svg)](https://zenodo.org/badge/latestdoi/124667376)
 
 ## References
 - Adl, Sina M., Alastair G B Simpson, Christopher E. Lane, Julius Lukeš, David Bass, Samuel S. Bowser, Matthew W. Brown, et al. 2012. “The Revised Classification of Eukaryotes.” Journal of Eukaryotic Microbiology 59 (5): 429–93. doi:10.1111/j.1550-7408.2012.00644.x.
