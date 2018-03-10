@@ -87,7 +87,7 @@ Information on the sampling: location, sampling method, culture, smaller scale h
 
 ## How to cite
 
-Evenstad, A., Lieblein Røsæg, L., Markussen Bjorbækmo, M.F., Krabberød, A.K., Logares, R. PIDA: Protist Interaction Database
+ Evenstad, A., Lieblein Røsæg, L., Markussen Bjorbækmo, M.F., Krabberød, A.K., Logares, R. PIDA: Protist Interaction Database
 
 
 ## References
