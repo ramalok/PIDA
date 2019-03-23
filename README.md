@@ -1,4 +1,4 @@
-![alt text](https://github.com/ramalok/PIDA/blob/master/pida.png)
+![PIDA](https://github.com/ramalok/PIDA/blob/master/pida.png)
 
 ## Assembling the database<br />
 The MicroEcoSystems Interaction database was assembled January through November 2017.
