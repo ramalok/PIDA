@@ -11,11 +11,8 @@ This literature search strategy, followed by meticulously reading papers and inc
 was the main method for collecting papers documenting interactions. The database of screened literature from Lima-Mendez et al. (2015) was used as template to organize our database. The the two databases (Tara and MicroEcoSystems) were merged together and duplicate entries were removed.  
 Finally, entries from the AquaSymbio database (http://aquasymbio.fr/) were used to find papers not included in the initial literature search. 
 
-The database documents the ecological interaction between two organisms, identified down to the species level, if possible. 
-Interactions are identified as parasitism, predation and benevolent symbiosis (either mutualism or commensalism). 
-Parasitism is used in cases where the paper at hand clearly underscores a parasitic interaction. 
-Cases of kleptoplasty together with classical predation are contained within the group of entries termed predation. 
-Symbiosis includes endo- and ectosymbiosis and is categorized into the different forms of symbiosis (e.g. photosymbiosis).<br /> 
+The database documents the ecological interaction between two organisms, identified down to the species level, if possible. Interactions are identified as parasitism, predation, benevolent symbiosis (either mutualism or commensalism) and unresolved interactions. Parasitism is used in cases where the paper at hand clearly underscores a parasitic interaction. Cases of kleptoplasty together with classical predation are contained within the group of entries termed predation. Symbiosis includes endo- and ectosymbiosis and is categorized into the different forms of symbiosis (e.g. photosymbiosis). Unresolved interactions are associations where it is uncertain whether the interactions are beneficial or antagonistic to the involved partners.<br /> 
+
 In addition to genus and species level, the taxonomic classification consists of three levels chosen pragmatically 
 to make the database more user friendly and portable. The highest level distinguishes between eukaryote and prokaryote taxa. 
 The second level places each taxon within super groups or other high taxonomic levels (e.g. Rhizaria or Alveolata) 
@@ -29,7 +26,7 @@ microscopy or direct observation are denoted 1. Symbionts and/or hosts determine
 The combination of the former two is denoted 3. Most interactions with observation type 2 also have accession numbers from GenBank (Benson et al. 2005) that are included in the database. 
 A published paper is associated to each interaction entry. When a DOI is available, it is included in the database.
 Only interactions from aquatic systems are included (marine, brackish and freshwater).
-The resulting database contains 2,422 entries from 528 publications.
+The resulting database contains 2,448 entries from 534 publications.
 
 ## Columns <br /> 
 
@@ -50,6 +47,7 @@ Type of interaction as described in the original paper:
 - Parasitism
 - Predation
 - Different forms of benevolent symbiosis (e.g. photosymbiosis, nitrogen-fixation and vitamin exchange)
+- Unresolved interactions
 
 ### Accession number<br />
 If sequencing was applied in the study (on one or both organisms), and published in Genbank, accession number is included in the database
