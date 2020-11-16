@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/globalbioticinteractions/PIDA.svg)](https://travis-ci.com/globalbioticinteractions/PIDA) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA)
+
+Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index
+
 ![PIDA](https://github.com/ramalok/PIDA/blob/master/pida.png)
 
 ## Assembling the database<br />
@@ -96,3 +100,4 @@ Information on the sampling: location, sampling method, culture, smaller scale h
 - http://webofknowledge.com/
 - http://aquasymbio.fr/
 
+This data repository was configured to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index.
