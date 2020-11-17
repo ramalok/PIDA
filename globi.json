@@ -29,7 +29,10 @@
       }, {
         "name" : "sourceOccurrenceId",
         "titles" : "Accession org1",
-        "datatype" : "string"
+        "datatype": {
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{sourceOccurrenceId}",
+          "base" :"string"
+         }
       }, {
         "name" : "Taxonomic level 1: org1",
         "titles" : "Taxonomic level 1: org1",
@@ -53,7 +56,10 @@
       }, {
         "name" : "targetOccurrenceId",
         "titles" : "Accession org2",
-        "datatype" : "string"
+        "datatype": {
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{targetOccurrenceId}",
+          "base" :"string"
+         }
       }, {
         "name" : "Taxonomic level 1: org2",
         "titles" : "Taxonomic level 1: org2",
