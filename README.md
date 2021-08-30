@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/PIDA.svg)](https://travis-ci.com/globalbioticinteractions/PIDA) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA)
-
-Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/README.txt)
 
 ![PIDA](https://github.com/ramalok/PIDA/blob/master/pida.png)
 
@@ -100,4 +98,8 @@ Information on the sampling: location, sampling method, culture, smaller scale h
 - http://webofknowledge.com/
 - http://aquasymbio.fr/
 
-This data repository was configured to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index.
+## Index
+
+This data repository was configured to by indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
+
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/README.txt)
