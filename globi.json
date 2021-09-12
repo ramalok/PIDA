@@ -1,0 +1,114 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "pida.tsv",
+    "dcterms:bibliographicCitation" : "Bjorbækmo, M. F. M., Evenstad, A., Røsæg, L. L., Krabberød, A. K., Logares, R. (2019) The planktonic protist interactome: emerging trends after a century of research. doi: https://doi.org/10.1101/587352",
+    "delimiter" : "\t",
+    "headerRowCount" : 3,
+    "null" : [ "NA" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "Observation type",
+        "titles" : "Observation type",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomic interaction",
+        "titles" : "Taxonomic interaction",
+        "datatype" : "string"
+      }, {
+        "name" : "interactionTypeName",
+        "titles" : "Interaction",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceOccurrenceId",
+        "titles" : "Accession org1",
+        "datatype": {
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{sourceOccurrenceId}",
+          "base" :"string"
+         }
+      }, {
+        "name" : "Taxonomic level 1: org1",
+        "titles" : "Taxonomic level 1: org1",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomic level 2: org1",
+        "titles" : "Taxonomic level 2: org1",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomic level 3: org1",
+        "titles" : "Taxonomic level 3: org1",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonGenus",
+        "titles" : "Genus org1",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonSpecificEpithet",
+        "titles" : "Species org1",
+        "datatype" : "string"
+      }, {
+        "name" : "targetOccurrenceId",
+        "titles" : "Accession org2",
+        "datatype": {
+          "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{targetOccurrenceId}",
+          "base" :"string"
+         }
+      }, {
+        "name" : "Taxonomic level 1: org2",
+        "titles" : "Taxonomic level 1: org2",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomic level 2: org2",
+        "titles" : "Taxonomic level 2: org2",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomic level 3: org2",
+        "titles" : "Taxonomic level 3: org2",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonGenus",
+        "titles" : "Genus org2",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonSpecificEpithet",
+        "titles" : "Species org2",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Reference",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceUrl",
+        "titles" : "Link",
+        "datatype" : "string"
+      }, {
+        "name" : "Database",
+        "titles" : "Database",
+        "datatype" : "string"
+      }, {
+        "name" : "Interaction_ID",
+        "titles" : "Interaction_ID",
+        "datatype" : "string"
+      }, {
+        "name" : "Ecological interaction",
+        "titles" : "Ecological interaction",
+        "datatype" : "string"
+      }, {
+        "name" : "habitatName",
+        "titles" : "Habitat",
+        "datatype" : "string"
+      }, {
+        "name" : "Source",
+        "titles" : "Source",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
