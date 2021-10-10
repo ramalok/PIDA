@@ -30,6 +30,10 @@ A published paper is associated to each interaction entry. When a DOI is availab
 Only interactions from aquatic systems are included (marine, brackish and freshwater).
 The resulting database contains 2,448 entries from 534 publications.
 
+
+PIDA is published in ISME: https://www.nature.com/articles/s41396-019-0542-5
+
+
 ## Columns <br /> 
 
 ### Observation type<br /> 
@@ -86,7 +90,9 @@ Information on the sampling: location, sampling method, culture, smaller scale h
 
 ## How to cite
 
- Bjorbækmo, M. F. M., Evenstad, A., Røsæg, L. L., Krabberød, A. K., Logares, R. (2019) The planktonic protist interactome: emerging trends after a century of research. doi: https://doi.org/10.1101/587352
+```R
+Bjorbækmo MFM, Evenstad A, Røsæg LL, Krabberød AK, Logares R. The planktonic protist interactome: where do we stand after a century of research? ISME J 2020; 14: 544–559.
+```
 
 ## References
 - Adl, Sina M., Alastair G B Simpson, Christopher E. Lane, Julius Lukeš, David Bass, Samuel S. Bowser, Matthew W. Brown, et al. 2012. “The Revised Classification of Eukaryotes.” Journal of Eukaryotic Microbiology 59 (5): 429–93. doi:10.1111/j.1550-7408.2012.00644.x.
