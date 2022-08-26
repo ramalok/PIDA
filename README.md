@@ -1,4 +1,4 @@
-[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/README.txt)
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ramalok/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:ramalok/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/ramalok/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/ramalok/PIDA/README.txt)
 
 ![PIDA](https://github.com/ramalok/PIDA/blob/master/pida.png)
 
@@ -108,4 +108,4 @@ Bjorbækmo MFM, Evenstad A, Røsæg LL, Krabberød AK, Logares R. The planktonic
 
 This data repository was configured to by indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
 
-[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/README.txt)
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ramalok/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:ramalok/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/ramalok/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/ramalok/PIDA/README.txt)
